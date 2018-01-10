@@ -1,0 +1,1 @@
+arch/arm/boot/dts/myd_j335x.dtb: arch/arm/boot/dts/.myd_j335x.dtb.dts.tmp arch/arm/boot/dts/am33xx-clocks.dtsi
